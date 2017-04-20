@@ -23,6 +23,7 @@
     //commit 1
     [_clickSender setTitle:NSLocalizedString(@"btn", nil) forState:(UIControlStateNormal)];
     //master change 1
+    //new change1
     // Do any additional setup after loading the view, typically from a nib.
 }
 
