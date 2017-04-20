@@ -1,0 +1,2 @@
+# LocalizeProj
+localize string
