@@ -17,6 +17,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    //commit 1
     [_clickSender setTitle:NSLocalizedString(@"btn", nil) forState:(UIControlStateNormal)];
     // Do any additional setup after loading the view, typically from a nib.
 }
